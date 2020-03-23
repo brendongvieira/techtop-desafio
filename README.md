@@ -1,5 +1,6 @@
 # TECHTOP - DESAFIO 
 
+![Captura de Tela 2020-03-22 às 21 42 59](https://user-images.githubusercontent.com/61479907/77269054-8cb04080-6c86-11ea-981b-6c01b984e3c0.png)
 Um desafio para criar um website em que é possível obter um valor médio baseado em marca, modelo, ano e versão. 
 
 ## Recursos
