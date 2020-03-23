@@ -1,4 +1,4 @@
-##TECHTOP - DESAFIO 
+### TECHTOP - DESAFIO 
 
 Um desafio para criar um website em que é possível obter um valor médio baseado em marca, modelo, ano e versão. 
 
@@ -6,7 +6,7 @@ Um desafio para criar um website em que é possível obter um valor médio basea
 
 
 
-#Recursos
+# Recursos
 
 API utilizada: https://volanty-price-api.herokuapp.com/brands/
 
@@ -20,15 +20,15 @@ Para buscar as versões /brands/:brand/models/:model/years/:year/versions
 
 Para buscar um carro /brands/:brand/models/:model/years/:year/versions/:versionId
 
-#Instalação
+# Instalação
 
 $ git clone git@github.com: https://github.com/brendongvieira/techtop-desafio.git
 $ cd techtop-desafio
 $ npm install or yarn
 $ npm start or yarn start
-# visit http://localhost:3000
+visit http://localhost:3000
 
-#Autor
+# Autor
 Brendon Vieira
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
