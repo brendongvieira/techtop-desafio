@@ -20,9 +20,13 @@ Para buscar um carro /brands/:brand/models/:model/years/:year/versions/:versionI
 ## Instalação
 
 $ git clone git@github.com: https://github.com/brendongvieira/techtop-desafio.git
+
 $ cd techtop-desafio
+
 $ npm install or yarn
+
 $ npm start or yarn start
+
 visit http://localhost:3000
 
 ## Autor
