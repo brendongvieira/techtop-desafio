@@ -1,4 +1,4 @@
-# TECHTOP - DESAFIO 
+# TECH TOP - DESAFIO 
 
 ![Captura de Tela 2020-03-22 às 21 42 59](https://user-images.githubusercontent.com/61479907/77269054-8cb04080-6c86-11ea-981b-6c01b984e3c0.png)
 Um desafio para criar um website em que é possível obter um valor médio baseado em marca, modelo, ano e versão. 
@@ -17,9 +17,13 @@ Para buscar as versões /brands/:brand/models/:model/years/:year/versions
 
 Para buscar um carro /brands/:brand/models/:model/years/:year/versions/:versionId
 
+## Tecnologia
+
+ReactJS
+
 ## Instalação
 
-$ git clone git@github.com: https://github.com/brendongvieira/techtop-desafio.git
+Faça o clone deste projeto com git clone https://github.com/brendongvieira/techtop-desafio.git
 
 $ cd techtop-desafio
 
@@ -27,7 +31,7 @@ $ npm install or yarn
 
 $ npm start or yarn start
 
-visit http://localhost:3000
+visite http://localhost:3000
 
 ## Autor
 Brendon Vieira
