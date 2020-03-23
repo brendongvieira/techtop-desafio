@@ -1,6 +1,6 @@
 # TECH TOP - DESAFIO 
 
-![Captura de Tela 2020-03-22 às 23 10 25](https://user-images.githubusercontent.com/61479907/77273457-6d1f1500-6c92-11ea-8e20-5fb1f667676d.png)
+![volanty-techtop](https://user-images.githubusercontent.com/61479907/77273700-fd5d5a00-6c92-11ea-8d05-038934e5f740.jpg)
 
 Um desafio para criar um website em que é possível obter um valor para o seu carro baseado em marca, modelo, ano e versão. 
 
