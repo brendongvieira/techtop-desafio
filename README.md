@@ -2,10 +2,6 @@
 
 Um desafio para criar um website em que é possível obter um valor médio baseado em marca, modelo, ano e versão. 
 
-
-
-
-
 ## Recursos
 
 API utilizada: https://volanty-price-api.herokuapp.com/brands/
